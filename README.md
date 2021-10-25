@@ -2,4 +2,6 @@
 Data visualization project with mapbox and AWS botnet dataset
 
 Alexander Urquhart
-Aleksandra Anderson
+
+Andrew Nguyen
+
