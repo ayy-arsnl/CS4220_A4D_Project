@@ -12,6 +12,22 @@
     cursor: pointer;
 }
 
+.iframe-container {
+    text-align: center;
+    width: 100%;
+}
+
+.readme-container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+    color: black;
+    background-color: aliceblue;
+    border-color: black;
+}
+
 body{
     background-color: antiquewhite;
 }
