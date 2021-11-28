@@ -38,12 +38,12 @@ On the detail map, each data point (honeypot) is displayed individually. The poi
 shown are filtered by date, so you will only see data points collected over a 
 timespan of one (particular) day at any given time. To select the day, find the 
 slider at the bottom and slide the dot to the day you would like to view. To see a 
-timelapse of each day, click the "play" button to the left of the slider, and to 
-stop the timelapse, click the stop button directly to the right of the play button. 
-Each point is color-coded depending on the protocol used for infection. A blue point 
-is TCP, an orange point is UDP, and a green point is ICMP. Additionally, you may 
-hover your mouse over any point on the map to reveal more information about that
-specific honeypot.
+timelapse of the days together day, click the "play" button to the left of the 
+slider, and to stop the timelapse, click the stop button directly to the right of 
+the play button. Each point is color-coded depending on the protocol used for 
+infection. A blue point is TCP, an orange point is UDP, and a green point is ICMP. 
+Additionally, you may hover your mouse over any point on the map to reveal more 
+information about that specific honeypot.
 
 ### Honeypot Heatmap Preview 
 https://api.mapbox.com/styles/v1/aurquhart/ckv47hzoo5f9o14o34w82filu.html?title=view&access_token=pk.eyJ1IjoiYXVycXVoYXJ0IiwiYSI6ImNrdWVzZGIxcTBjbzQyb3Q5MDRtbXNudHgifQ.1gI2_puV4N2zOcUzml7PyQ&zoomwheel=true&fresh=true#5.41/38.689/-90.221
