@@ -16,3 +16,9 @@ fig.show()
 fig.write_html("map.html")
 
 
+#heat = px.density_mapbox(targets, lat="latitude", lon="longitude", animation_frame="date", hover_name="country", hover_data=["datetime", "srcstr", "proto"],
+                      # color_continuous_scale=px.colors.cyclical.IceFire, zoom=3, height=900)
+#heat.update_layout(mapbox_style="open-street-map")
+
+#heat.show()
+#heat.write_html("map.html")
